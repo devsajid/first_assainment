@@ -62,3 +62,25 @@ span{
 #goal{
     background-color: crimson;
 }
+.portfolio img{
+    width: 75%;
+    
+}
+.portfolio{
+    padding-left: 13%;
+    padding-right: 13%;
+    margin-top: 5%
+}
+.portfolio{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat:no-repeat;
+    background-size: 5%;
+}
+
+.prtsec{
+    width: 85%;
+    
+}
+.prtimg{
+    width: 75%;
+}
