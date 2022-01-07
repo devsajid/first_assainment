@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    font-family: 'Cabin', sans-serif;
     font-family: 'Source Sans Pro', sans-serif;
     padding: 0;
 }
@@ -79,7 +80,9 @@ span{
 .portfolio{
     background-image: url(images/shapes/shape-1.png);
     background-repeat:no-repeat;
-    background-size: 5%;
+    background-position: left bottom;
+    background-size: 22%;
+    padding-left: 12%;
 }
 
 .prtsec{
@@ -88,8 +91,12 @@ span{
 }
 .application img{
     width: 75%;
+    background-image: url(images/shapes/shape-3.png);
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: 45%;
 }
-.application{
+.community{
     padding-left: 13%;
     padding-right: 13%;
     margin-top: 5%
@@ -106,10 +113,10 @@ span{
 .community{
     padding-left: 13%;
     padding-right: 13%;
-    margin-top: 5%
+    margin-top: 5%;
 }
 .community img{
-    width: 75%;
+    width: 75%;  
 }
 .comimg{
     width: 50%;
